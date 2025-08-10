@@ -1,0 +1,21 @@
+{
+  "name": "young-ng-angular-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "packageManager": "npm@10",
+  "scripts": {
+    "scaffold": "node script/scaffold.mjs",
+    "verify": "npm run lint && npm run format:check",
+    "lint": "echo 'Run after scaffold'",
+    "format": "echo 'Run after scaffold'",
+    "format:check": "echo 'Run after scaffold'"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.0",
+    "eslint": "^9.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "segerdekort.angular-cli",
+    "angular.ng-template",
+    "nrwl.angular-console",
+    "ghaschel.vscode-angular-html",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "formulahendry.auto-close-tag",
+    "yoavbls.pretty-ts-errors",
+    "streetsidesoftware.code-spell-checker",
+    "zignd.html-css-class-completion",
+    "gruntfuggly.todo-tree",
+    "oouo-diogo-perdigao.docthis",
+    "eamodio.gitlens",
+    "lihui.vs-color-picker",
+    "kevinyang.ctlorem",
+    "adpyke.codesnap",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
